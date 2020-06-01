@@ -1,0 +1,9 @@
+﻿  Car.cpp
+c:\users\vadim\source\repos\cartrain\cartrain\car.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vadim\source\repos\cartrain\cartrain\car.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vadim\source\repos\cartrain\cartrain\car.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vadim\source\repos\cartrain\cartrain\car.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vadim\source\repos\cartrain\cartrain\car.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+  carTrainMain.cpp
+  Создание кода...
+  carTrain.vcxproj -> C:\Users\Vadim\source\repos\carTrain\Debug\carTrain.exe
